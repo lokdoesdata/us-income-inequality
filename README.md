@@ -1,0 +1,1 @@
+The license for the code and the visual: **CC BY-SA 4.0**.
